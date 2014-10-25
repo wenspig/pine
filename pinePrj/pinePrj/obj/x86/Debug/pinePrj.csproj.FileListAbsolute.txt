@@ -1,0 +1,7 @@
+E:\GitHub\pine\pinePrj\pinePrj\bin\Debug\pinePrj.exe
+E:\GitHub\pine\pinePrj\pinePrj\bin\Debug\pinePrj.pdb
+E:\GitHub\pine\pinePrj\pinePrj\obj\x86\Debug\pinePrj.Properties.Resources.resources
+E:\GitHub\pine\pinePrj\pinePrj\obj\x86\Debug\pinePrj.csproj.GenerateResource.Cache
+E:\GitHub\pine\pinePrj\pinePrj\obj\x86\Debug\pinePrj.exe
+E:\GitHub\pine\pinePrj\pinePrj\obj\x86\Debug\pinePrj.pdb
+E:\GitHub\pine\pinePrj\pinePrj\obj\x86\Debug\pinePrj.MainForm.resources

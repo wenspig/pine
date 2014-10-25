@@ -6,3 +6,4 @@
       git add gitUsage.md
       git commit (提示符[master]变成了绿色)
       git push (提示符[master]变成了亮蓝色)
+   成功！
